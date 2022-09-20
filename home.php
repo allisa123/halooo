@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo"Hellow Allisa Cantik";
+echo"Hellow Allisa";
 ?>
 
 </body>
